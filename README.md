@@ -9,7 +9,8 @@ Install NodeJs 20.130
 Install typescript with npm install command
 
 
-#To Execute
+# To Execute
+
 Open git bash and do the following:
 
 1. cd /{cloned_repo_file_explorer_path}
